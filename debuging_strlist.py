@@ -1,0 +1,4 @@
+# debuging_strlist.py
+
+name = ["Savitri", "Phule", "26"]
+print (name[0]+name[1]+name[2])
